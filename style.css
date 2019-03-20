@@ -1,0 +1,27 @@
+.content{
+
+text-align:center;
+margin-right:30%;
+margin-left:35%;
+margin-top:25%;
+color: white;
+
+}
+
+.green{
+  color:green;
+}
+#ctr1,#ctr2{
+  background-color: gray;
+}
+
+body{
+background-image: url("bg.jpg");
+background-size: cover;
+opacity: 50%;
+
+}
+
+html{
+  height: 100%;
+}
